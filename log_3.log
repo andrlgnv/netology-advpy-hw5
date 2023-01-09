@@ -1,0 +1,13 @@
+Date/time: 2023-01-09 22:16:32.170700
+Name: hello_world
+Arguments: ((), {})
+Result: Hello WorldDate/time: 2023-01-09 22:16:32.170700
+Name: summator
+Arguments: ((2, 2), {})
+Result: 4Date/time: 2023-01-09 22:16:32.170700
+Name: div
+Arguments: ((6, 2), {})
+Result: 3.0Date/time: 2023-01-09 22:16:32.171697
+Name: summator
+Arguments: ((4.3,), {'b': 2.2})
+Result: 6.5
